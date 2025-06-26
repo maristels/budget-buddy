@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: rgb(10, 198, 245);
+    margin-left:500px;
+    margin-top:170px;
+}
+h1{
+    color:rgb(39, 2, 124);
+    font-size: 40px;
+    margin: 20px;
+}
+h2{
+    margin:5px;
+    color:rgb(79, 8, 247);
+}
+input{
+    width:300px;
+    height:30px;
+}
+button{
+    display: block;
+    margin: 10px;
+    margin-left:0px;
+    font-size: 17px;
+    padding:5px 25px;
+    background-color: whitesmoke;
+    border: none;
+
+}
+
+.list{
+    display: flex;
+    font-size: 22px;
+    
+}
+.amount-items{
+    margin-left: 260px;
+    list-style:none;
+    
+
+}
+.current-balance{
+    margin-left: 50px;
+}
+.Transactions{
+    list-style:none;
+}
